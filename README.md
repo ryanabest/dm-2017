@@ -1,12 +1,6 @@
 # dm-2017
 
-### THE NEW SCHOOL
-
 ### PARSONS SCHOOL OF DESIGN
-
-### ART, MEDIA & TECHNOLOGY
-
-
 
  Design Methods
 
