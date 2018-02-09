@@ -1,15 +1,14 @@
 # dm-2017
 
- THE NEW SCHOOL
+## THE NEW SCHOOL
 
- PARSONS SCHOOL OF DESIGN
+## PARSONS SCHOOL OF DESIGN
 
- ART, MEDIA & TECHNOLOGY
+## ART, MEDIA & TECHNOLOGY
 
 
+### Design Methods
 
- Design Methods
+### Fall 2017
 
- Fall 2017
- 
- Richard The
+### Richard The
