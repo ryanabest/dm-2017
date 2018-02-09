@@ -8,8 +8,8 @@
 
 
 
-### Design Methods
+ Design Methods
 
-### Fall 2017
+ Fall 2017
 
-### Richard The
+ Richard The
