@@ -6,38 +6,57 @@
   <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
   <style>
   * {
-    text-align: center;
     font-family: 'Nunito', sans-serif;
   }
 
-  a, p {
-    font-family: 'Lora', serif;
+  h1 {
+    font-size: 300%;
+    text-align: center;
+    color: #545454;
   }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .flex-link {
+    /* width: 33.33%; */
+    font-size: 700%;
+    color: #D9D9D9;
+    text-decoration: none;
+  }
+
+  a:hover.flex-link  {
+    color: #ff0317;
+  }
+
+  span:hover.flex-link  {
+    color: #545454;
+  }
+
 
   </style>
 </head>
 <body>
-  <h2>Design Methods</h2>
-  <a href = 'Remix_RB/index.html'>Remix</a><br><br>
-  <a href = 'GiorgiaLupi/index.html'>Giorgia Lupi | Data Humanism</a><br><br>
-  <b>Track: Phase I</b><br>
-  <a href = 'TrackPhaseI/Track1.jpg'>1</a>
-  |
-  <a href = 'TrackPhaseI/Track2.jpg'>2</a>
-  |
-  <a href = 'TrackPhaseI/Track3.jpg'>3</a>
-  |
-  <a href = 'TrackPhaseI/Track4.jpg'>4</a>
-  |
-  <a href = 'TrackPhaseI/Track5.jpg'>5</a>
-  |
-  <a href = 'TrackPhaseI/Track6.jpg'>6</a>
-  <br><br>
-  <a href = 'TrackPhaseII/index.html'>Track: Phase II (Mobile)</a>
-  <br><br>
-  <a href = 'Organize/index.html'>Organize</a><br><br>
-  <a href = 'Feed/Prototype/index2.html'>Delay: Feed Prototype 1</a><br><br>
-  <a href = 'Feed/Prototype/index.html'>Delay: Feed Prototype 2</a><br><br>
-  <a href = 'http://slides.com/ryanbest/design-methods/fullscreen'>Final Crit</a><br><br>
+  <h1>dm-2017</h1>
+  <div class = "container">
+    <a class = "flex-link" href = 'Remix_RB/index.html'>Remix</a>&nbsp;
+    <a class = "flex-link" href = 'GiorgiaLupi/index.html'>Giorgia Lupi</a>&nbsp;
+    <span class = "flex-link">Track Phase I:</span>&nbsp;
+    <a class = "flex-link" href = 'TrackPhaseI/Track1.jpg'>1</a>
+    <a class = "flex-link" href = 'TrackPhaseI/Track2.jpg'>2</a>
+    <a class = "flex-link" href = 'TrackPhaseI/Track3.jpg'>3</a>
+    <a class = "flex-link" href = 'TrackPhaseI/Track4.jpg'>4</a>
+    <a class = "flex-link" href = 'TrackPhaseI/Track5.jpg'>5</a>
+    <a class = "flex-link" href = 'TrackPhaseI/Track6.jpg'>6</a>
+    &nbsp;
+    <a class = "flex-link" href = 'TrackPhaseII/index.html'>Track Phase II</a>&nbsp;
+    <a class = "flex-link" href = 'Organize/index.html'>Organize</a>&nbsp;
+    <a class = "flex-link" href = 'Feed/Prototype/index2.html'>Delay Prototype 1</a>&nbsp;
+    <a class = "flex-link" href = 'Feed/Prototype/index.html'>Delay Prototype 2</a>&nbsp;
+    <a class = "flex-link" href = 'http://slides.com/ryanbest/design-methods/fullscreen'>Final Crit</a>&nbsp;
+  </div>
 </body>
 </html>
